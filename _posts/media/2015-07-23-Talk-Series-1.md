@@ -1,6 +1,6 @@
 ---
 layout: article
-title: "Talk Series #1"
+title: "CTS-NL Talk Series"
 categories: media
 modified: 2015-07-23
 image:
