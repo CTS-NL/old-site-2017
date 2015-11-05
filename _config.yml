@@ -1,6 +1,7 @@
 # Site wide configuration
 
 title: Computer Technology Society Newfoundland and Labrador
+shortTitle: CTS-NL
 description: We are a new group that is trying to create a community for anyone in Newfoundland and Labrador that works or has interest in computers and technology.
 logo: logo.png # 120x120 px default image used for Twitter summary card
 teaser: teaser.jpg # 400x250 px default teaser image used in image archive grid
