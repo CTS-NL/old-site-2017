@@ -3,7 +3,7 @@ layout: home
 permalink: /
 title:
 image:
-    feature: feature.jpg
+    feature: feature.png
 ---
 
 <h3>Past Events</h3>
