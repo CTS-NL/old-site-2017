@@ -1,5 +1,5 @@
 ---
-layout: article
+layout: media
 title: "CTS-NL Talk Series"
 categories: media
 modified: 2015-07-23
