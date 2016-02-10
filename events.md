@@ -14,6 +14,10 @@ ads: false
 ---
 
 <iframe src="https://www.google.com/calendar/embed?src=computer.tech.society.nl%40gmail.com&ctz=America/St_Johns" style="border: 0" width="700" height="425" frameborder="0" scrolling="no"></iframe>
+
+<br>
+
+<iframe src="https://calendar.google.com/calendar/embed?src=lg91l2ngk9ee09qi1k12dmaneg%40group.calendar.google.com&ctz=America/St_Johns" style="border: 0" width="700" height="425" frameborder="0" scrolling="no"></iframe>
 <!--
 ##Events
 
