@@ -6,7 +6,7 @@ description: We are a new group that is trying to create a community for anyone 
 logo: logo.png # 120x120 px default image used for Twitter summary card
 teaser: teaser.jpg # 400x250 px default teaser image used in image archive grid
 locale:
-url: 
+url:
 
 # Jekyll configuration
 
@@ -16,7 +16,7 @@ sass:
 permalink: /:categories/:title/
 kramdown:
   toc_levels: 1..2
-highlighter: pygments
+highlighter: rouge
 gems:
   - jekyll-sitemap
 
@@ -27,9 +27,9 @@ owner:
   email: computer.tech.society.nl@gmail.com
   twitter: CTS_NL
   google:
-    ad-client: 
-    ad-slot: 
-  bio: 
+    ad-client:
+    ad-slot:
+  bio:
   avatar: bio-photo.png # 160x160 px image for author byline
 disqus-shortname:
 
