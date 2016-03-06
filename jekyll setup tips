@@ -1,0 +1,24 @@
+To start completely fresh use the following command to remove all gem installed rubies:
+    $rm -rf !/.rvm
+To remove any pre-rvm gem installed rubies:
+    $for x in `gem list --no-versions`; do gem uninstall $x -a -x -I; done
+
+
+To install rvm, ruby, jekyll and their dependencies:
+    $sudo apt-get update
+    $sudo apt-get install git-core curl zlib1g-dev build-essential libssl-dev libreadline-dev libyaml-dev libsqlite3-dev sqlite3 libxml2-dev libxslt1-dev libcurl4-openssl-dev python-software-properties
+
+    $sudo apt-get install libgdbm-dev libncurses5-dev automake libtool bison libffi-dev
+    $curl -L https://get.rvm.io | bash -s stable
+    $source ~/.rvm/scripts/rvm
+    $echo "source ~/.rvm/scripts/rvm" >> ~/.bashrc
+    $rvm install 2.1.2
+    $rvm use 2.1.2 --default
+    $sudo gem install jekyll
+
+
+For use with the CTS website which is based off of the Skinny Bones theme:
+    $sudo gem install bundler
+    #Move to the directory for the website
+    $bundle install #this installs the websites dependencies
+    $bundle exec jekyll serve #this runs the website
