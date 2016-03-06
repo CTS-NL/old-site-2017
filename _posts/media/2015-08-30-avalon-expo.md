@@ -2,9 +2,9 @@
 layout: media
 title: "Avalon Expo 2015"
 categories: media
-modified: 2015-08-30
+modified: 2016-03-05
 image:
-    teaser: avalon-expo-2015-1.jpg
+    teaser: avalon-expo-2015-1-teaser.jpg
 comments: false
 ads: false
 ---
