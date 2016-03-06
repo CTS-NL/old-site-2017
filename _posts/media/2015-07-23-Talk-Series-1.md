@@ -12,10 +12,10 @@ ads: false
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ugVRDttu7JQ" frameborder="0" allowfullscreen></iframe>
 
-####Speaker
+#### Speaker
 Whymarrh Whitby, a MUN Computer Science student and developer at Amec Foster Wheeler, will be giving the talk.
 
-####Abstract
+#### Abstract
 
 "Please test your software" — your users
 
