@@ -15,7 +15,7 @@ ads: false
 <!-- Begin MailChimp Signup Form -->
 <link href="//cdn-images.mailchimp.com/embedcode/classic-081711.css" rel="stylesheet" type="text/css">
 <style type="text/css">
-	#mc_embed_signup{background:#fff; clear:left; font:14px Helvetica,Arial,sans-serif; }
+	#mc_embed_signup{background:#fcfcfd; clear:left; font:14px Helvetica,Arial,sans-serif; }
 	/* Add your own MailChimp form style overrides in your site stylesheet or in this style block.
 	   We recommend moving this block and the preceding CSS link to the HEAD of your HTML file. */
 </style>
@@ -59,4 +59,3 @@ Want to get more in touch with us or learn more?
 [<i class="fa fa-twitter-square fa-2x"></i> Follow us on twitter!](http://twitter.com/CTS_NL)
 
 [<i class="fa fa-envelope-square fa-2x"></i> Or, if you have any questions you can email us!](mailto:computer.tech.society.nl@gmail.com)
-
